@@ -7,6 +7,7 @@ help to generate a query for specific project
 
 ### Installing
 
+```
 go install
 
 info-query-builder -h
@@ -18,6 +19,7 @@ Usage of info-query-builder:
         base url for accessing images in production (default "http://localhost/images")
   -stgURL string
         base url for accessing images in staging (default "http://localhost/images")
+```
 
 ### Testing
 
